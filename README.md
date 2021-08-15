@@ -1,4 +1,4 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianhui99&show_icons=true&theme=dracula)
 
 <!--
 **jianhui99/jianhui99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
