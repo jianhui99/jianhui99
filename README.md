@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianhui99&show_icons=true&theme=dracula)
+<span align="center">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianhui99&show_icons=true&theme=dracula) 
+ <span>
 
 <!--
 **jianhui99/jianhui99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
