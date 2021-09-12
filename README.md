@@ -1,10 +1,4 @@
-### Hello World 🌍 I am Jian! <br/> Nice to meet you in this space!
-
-### Read a little bio about me
-
-- 🔭 I’m currently working on projects related to Artificial Intelligence
-- 👨‍💻 Don't worry. I also code a lot as well.
-- 📚 I’m currently learning more JavaScript FrontEnd Framework, Flutter and NodeJS (as well as probably Laravel in the near future)
+### Hello World, I am Jian! <br/> Nice to meet you in this space!
 
 <br/>
 
