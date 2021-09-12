@@ -1,5 +1,7 @@
-### Hello World, I am Jian! <br/> Nice to meet you in this space!
-<br/>
+<h1 align="center">
+  Hello World, I am Jian! <br/> Nice to meet you in this space!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jianhui99&show_icons=true&theme=dracula)
 
