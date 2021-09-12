@@ -10,6 +10,13 @@
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jianhui99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
+
+<p align="center">
+<a  href="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=dracula"><img src="https://github-readme-stats.vercel.app/api?username=jianhui99&count_private=true&show_icons=true&theme=dracula" /></a>
+  
+</p>
+
+
 <!--
 **jianhui99/jianhui99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
