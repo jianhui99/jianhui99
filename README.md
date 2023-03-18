@@ -27,7 +27,7 @@
 
 - 😄 Working as a Backend Engineer and contributing to backend for building web applications and portals.
 - ⚡ I’m currently learning: **Golang**
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leong-jian-hui-9809311b4) [![Gmail Badge](https://img.shields.io/badge/-jian-white?style=flat&logo=Gmail&logoColor=red)](jianhui9998@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leong-jian-hui-9809311b4) [![Gmail Badge](https://img.shields.io/badge/-jian-white?style=flat&logo=Gmail&logoColor=red)](mailto:jianhui9998@gmail.com)
 
 ---
 
