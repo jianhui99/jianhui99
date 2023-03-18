@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/leong-jian-hui-9809311b4/">
+    <a href="https://www.linkedin.com/in/leong-jian-hui-9809311b4/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/jian99hui">
+    <a href="https://www.instagram.com/jian99hui" target="_blank">
       <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
