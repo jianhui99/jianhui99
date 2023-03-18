@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/leong-jian-hui-9809311b4/" target="_blank">
+    <a href="https://www.linkedin.com/in/leong-jian-hui-9809311b4/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/jian99hui" target="_blank">
+    <a href="https://www.instagram.com/jian99hui">
       <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
@@ -27,7 +27,7 @@
 
 - 😄 Working as a Backend Engineer and contributing to backend for building web applications and portals.
 - ⚡ I’m currently learning: **Golang**
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ajay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leong-jian-hui-9809311b4) [![Gmail Badge](https://img.shields.io/badge/-ajay-white?style=flat&logo=Gmail&logoColor=red)](jianhui9998@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leong-jian-hui-9809311b4) [![Gmail Badge](https://img.shields.io/badge/-jian-white?style=flat&logo=Gmail&logoColor=red)](jianhui9998@gmail.com)
 
 ---
 
